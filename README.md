@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://twitter.com/suhalsamadmasud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="suhalsamadmasud" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/suhalsamadmasud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suhalsamadmasud" height="30" width="40" /></a>
-<a href="https://medium.com/@ssamad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ssamad" height="30" width="40" /></a>
+<a href="https://medium.com/@suhalsamad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ssamad" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/metaidigit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="metaidigit" height="30" width="40" /></a>
 </p>
 
