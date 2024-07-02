@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/s-samadmasud](https://github.com/s-samadmasud)
 
-- 📝 I regularly write articles on [https://pickcrmsoft.com/](https://pickcrmsoft.com/)
+- 📝 I regularly write articles on [https://pickcrmsoft.com/]([https://pickcrmsoft.com/](https://medium.com/@suhalsamad))
 
 - 💬 Ask me about **Data Science and SEO**
 
