@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Suhal Samad</h1>
-<h3 align="center">Solopreneur for 5+ years-SEO Consultant | Google Certified Data Analyst & Data Scientist | Writer | KDP publisher| Teacher</h3>
+<h3 align="center">Solopreneur for 5+ years | Google, IBM & Meta Certified Data Scientist & ML Engineer| Writer | KDP publisher| Teacher</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/s-samadmasud](https://github.com/s-samadmasud)
 
 - 📝 I regularly write articles on [https://medium.com/@suhalsamad](https://medium.com/@suhalsamad)
 
-- 💬 Ask me about **Data Science and SEO**
+- 💬 Ask me about **Data Science, Machine Learning, AI, Computer Vision & Gen-AI**
 
 - 📫 How to reach me **abdulalmasud261@gmail.com**
 
