@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suhal Samad</h1>
 <h3 align="center">Solopreneur for 5+ years | Google, IBM, Microsoft & Meta Certified Data Scientist & ML Engineer| Writer | KDP publisher| Teacher</h3>
 
-- 👨‍💻 All of my projects(source codes & courses) are available at [https://gumroad.com/products](https://gumroad.com/products)
+- 👨‍💻 All of my projects(source codes & courses) are available at [https://gumroad.com/](https://samad23.gumroad.com/?section=AjR3GmliY4FwYAPPjM1-_A==#AjR3GmliY4FwYAPPjM1-_A==)
 
 - 📝 I regularly write articles on [https://medium.com/@suhalsamad](https://medium.com/@suhalsamad)
 
