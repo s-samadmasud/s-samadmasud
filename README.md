@@ -6,6 +6,8 @@
 - 💬 Ask me about **Data Science, Machine Learning, AI, Computer Vision & Gen-AI**
 
 - 📫 How to reach me **samadsuhal@gmail.com**
+  
+- 📫 Founder & CEO [camsentra.com](https://camsentra.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
